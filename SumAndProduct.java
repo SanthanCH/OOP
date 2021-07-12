@@ -49,7 +49,7 @@ public class SumAndProduct{
             }
         }
         else
-            System.out.println("Enter same dimensions matrix for sum");
+            System.out.println("Enter same dimensions for Both matrix for sum");
         
         //we check if row of A and column of B have same dimensions(condition for multiplying two matrices)
         if (c1 == r2){
