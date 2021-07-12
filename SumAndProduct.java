@@ -4,7 +4,7 @@
 import java.util.*;
 public class SumAndProduct{
     public static void main(String args[]) {
-        System.out.println("Sai Rohith T - 190953059");
+        System.out.println("Sai Rohith T - 190953059 CCE-B");
         int i, j, r1, c1, r2, c2, k;
         Scanner sc = new Scanner(System.in);
         //Taking dimensions of Matrices A and B
